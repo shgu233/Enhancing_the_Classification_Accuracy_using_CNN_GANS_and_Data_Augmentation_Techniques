@@ -1,4 +1,4 @@
-# Gans-Model
+# Enhancing the Classification Accuracy using CNN, GANs, and data Augmentation Techniques
 Generating cat images through gan's to balance my imabalnce dataset.
 This is the official repository for the research paper "Enhancing the Classification Accuracy using CNN, 
 GANs, and data Augmentation Techniques", (https://ieeexplore.ieee.org/abstract/document/10393694) containg all the codes for the training and testing codes of te GANS model traianed for the enhancing the CNN models for the unbalanced dataset problem. Japkowicz and Stephen (2002 class) have 
